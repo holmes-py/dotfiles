@@ -164,7 +164,7 @@ modules-center =  cpu sep memory sep eth sep date
 tray-detached = false
 tray-offset-x = -2
 tray-position = right
-
+tray-background = #191919
 
 ; [bar/sys]
 ; inherit = bar/main
