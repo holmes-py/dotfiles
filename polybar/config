@@ -164,6 +164,7 @@ modules-center =  cpu sep memory sep eth sep date
 tray-detached = false
 tray-offset-x = -2
 tray-position = right
+tray-backgroun = #191919
 
 
 ; [bar/sys]
