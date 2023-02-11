@@ -52,6 +52,8 @@ bindsym $mod+x exec alacritty
 # start a browser
 bindsym $mod+b exec firefox
 
+# system shutdown
+bindsym $mod+Shift+q exec systemctl poweroff
 
 # kill focused window
 bindsym $mod+q kill
